@@ -58,4 +58,4 @@ Before running queries, you need to fill the sidebar on the left! Otherwise, an 
 
 
 #### Sample Dataset
-A sample Star Wars dataset is attached to the repository for testing purposes. For more information, look at [this repo](https://github.com/AlbertoFormaggio1/star_wars_unstructured_dataset).
+A sample Star Wars dataset is attached to the repository for testing purposes. 
