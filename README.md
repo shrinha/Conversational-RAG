@@ -2,9 +2,6 @@
 
 This repository contains a conversational Retrieval-Augmented Generation (RAG) web interface developed with Streamlit. The interface allows users to interact with a RAG model by selecting local folders containing data and models for summarization and answering.
 
-<p style="center">
-  <img src="./assets/web_interface.png" alt="Web Interface of a RAG application">
-</p>
 
 ## Features
 
@@ -45,10 +42,6 @@ A list of available models can be retrieved at:
 https://ollama.com/library
 When opening the page of a model, please open the drop-down menu and select a *quantized models* (smaller and faster) that were fine-tuned on instructions (with *instruct* in their name).
 From experience, models quantized with Q_4_K_M are a good compromise between quality and speed if you're running your model on a device without GPU.
-
-<p style="center">
-  <img src="./assets/ollama_model.png" alt="How to select a model with Ollama">
-</p>
 
 #### Running the Application
 1. Open the virtual environment with the installed packages.
