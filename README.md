@@ -20,8 +20,7 @@ This repository contains a conversational Retrieval-Augmented Generation (RAG) w
 First, you need to clone the repository on your local machine and move into the folder.
 From terminal, run:
 ```
-git clone https://github.com/AlbertoFormaggio1/conversational_rag_web_interface.git
-cd conversational_rag_web_interface
+git clone https://github.com/shrinha/Conversational-RAG.git
 ```
 #### Install the dependencies in your virtual environment
 To execute this environment you need to install the requirements provided in the requirements.txt file.
